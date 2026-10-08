@@ -1,0 +1,8 @@
+Create an "About Me" page that includes all of these elements:
+An <h1> with your name
+A paragraph (<p>) introducing yourself
+An unordered list of 3 hobbies or interests
+An ordered list of your top 3 favorite movies, books, or songs
+A link to your favorite website
+An image (can be a placeholder from picsum.photos or any URL)
+Bonus: Use semantic elements like <header>, <main>, and <footer> to structure your page!
